@@ -1,4 +1,7 @@
-## Hi there, I'm Alexander Shevtsov👋
+## Hi there,👋
+
+I'm a Research Assistant at the Distributed Computing Systems and Cybersecurity (DiSCS) Laboratory of the Institute of Computer Science of the Foundation for Research and Technology - Hellas (ICS-FORTH) and a Researcher at the Technical University of Crete (TUC). My research interests include Machine Learning, Natural Language Processing, and Data Analytics.
+
 [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-blue?style=for-the-badge&logo=web)](https://www.csd.uoc.gr/~shevtsov/)
 <!--
 **alexdrk14/alexdrk14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
