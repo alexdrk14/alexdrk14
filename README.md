@@ -12,11 +12,13 @@ My previous work includes the analysis and development of numerous AI models, in
 
 ### Languages and Tools:
  <p align="left">
-  <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img height=32 src="https://huggingface.co/front/assets/huggingface_logo.svg" />
   <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
 </p>
                    
 ### Connect with me:
