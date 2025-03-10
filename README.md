@@ -7,9 +7,9 @@ Additionally, I bring 3 years of hands-on experience as a Data Scientist, specia
 My previous work includes the analysis and development of numerous AI models, including machine learning, federated learning, explainable AI, transformer models, and natural language processing. I have built these models from the ground up using Python, scikit-learn, and PyTorch, as well as leveraged well-known Hugging Face models, fine-tuning or training them for specific use cases.
 
 
-*   🌍  I'm based in Greece
-*   ✉️  You can contact me at [alex.drk14@gmail.com](mailto:alex.drk14@gmail.com)
-*   🤝  I'm open to collaborating on Data Science and AI Development Projects
+*   I'm based in Greece
+*   You can contact me at [alex.drk14@gmail.com](mailto:alex.drk14@gmail.com)
+*   I'm open to collaborating on Data Science and AI Development Projects
 
 
 ### Languages and Tools:
