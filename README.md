@@ -1,13 +1,13 @@
 ## Hi there,👋 My name is Alexander Shevtsov
 
-As a Postdoctoral AI Research Scientist and Data Scientist, I am deeply passionate about machine learning, distributed computing, and working across all stages of the data lifecycle. With over 8 years of research and data analysis experience, I have collaborated with multiple institutes and research groups on a diverse range of open problems.
+As a AI/Ml Engineer and Data Scientist, I am deeply passionate about machine learning, distributed computing, and working across all stages of the data lifecycle. With over 8 years of research and data analysis experience, I have collaborated with multiple institutes and research groups on a diverse range of open problems.
 
-Additionally, I bring 3 years of hands-on experience as a Data Scientist, specializing in building, deploying, and monitoring AI models across various real-world scenarios.
+Additionally, I bring 3+ years of hands-on experience as a Data Scientist, specializing in building, deploying, and monitoring AI models across various real-world scenarios.
 
 My previous work includes the analysis and development of numerous AI models, including machine learning, federated learning, explainable AI, transformer models, and natural language processing. I have built these models from the ground up using Python, scikit-learn, and PyTorch, as well as leveraged well-known Hugging Face models, fine-tuning or training them for specific use cases.
 
 
-*   I'm based in Greece
+*   I'm based in Greece/Cyprus
 *   You can contact me at [alex.drk14@gmail.com](mailto:alex.drk14@gmail.com)
 *   I'm open to collaborating on Data Science and AI Development Projects
 
